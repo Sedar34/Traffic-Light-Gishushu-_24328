@@ -22,3 +22,4 @@ Pedestrian Signals:
 
 Pedestrians will have a "Walk" signal when the corresponding traffic light is red for vehicles (i.e., when North-South or East-West is red).
 A "Don't Walk" signal will be displayed when vehicles have a green or yellow light.
+
